@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ruth Morataya</h1>
+<h1 align="center">Hi 👋, I'm Ruth</h1>
 
 <h3 align="center">
   Software Engineer | Frontend Developer | Application Support
@@ -131,7 +131,13 @@
     height="150"
     alt="GitHub streak"
   />
-  
+
+</div>
+
+<br>
+
+<div align="center">
+
   <img
     src="https://trophy.ryglcloud.net/?username=Anaru03&theme=dracula&title=MultiLanguage,Repositories,Commits,Experience,Followers,PullRequest&column=6&margin-w=8&margin-h=8"
     alt="GitHub trophies"
@@ -139,14 +145,14 @@
 
 </div>
 
-###
+<br>
 
 <div align="center">
 
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=Anaru03&theme=dracula&area=true&hide_border=false&radius=16"
     width="95%"
-    alt="Ruth de León's Contribution Graph"
+    alt="Ruth's Contribution Graph"
   />
 
 </div>
@@ -160,15 +166,16 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Anaru03/Anaru03/pacman-output/pacman-contribution-graph-dark.svg?game=pacman"
+      srcset="https://raw.githubusercontent.com/Anaru03/Anaru03/pacman-output/pacman-contribution-graph-dark.svg"
     >
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Anaru03/Anaru03/pacman-output/pacman-contribution-graph.svg?game=pacman"
+      srcset="https://raw.githubusercontent.com/Anaru03/Anaru03/pacman-output/pacman-contribution-graph.svg"
     >
     <img
       alt="Pac-Man contribution graph"
-      src="https://raw.githubusercontent.com/Anaru03/Anaru03/pacman-output/pacman-contribution-graph.svg?game=pacman"
+      src="https://raw.githubusercontent.com/Anaru03/Anaru03/pacman-output/pacman-contribution-graph.svg"
+      width="100%"
     >
   </picture>
 
