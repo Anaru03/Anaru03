@@ -131,11 +131,9 @@
     height="150"
     alt="GitHub streak"
   />
-
-  <br><br>
-
+  
   <img
-    src="https://github-profile-trophy-winning.vercel.app/?username=Anaru03&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false"
+    src="https://trophy.ryglcloud.net/?username=Anaru03&theme=dracula&title=MultiLanguage,Repositories,Commits,Experience,Followers,PullRequest&column=6&margin-w=8&margin-h=8"
     alt="GitHub trophies"
   />
 
